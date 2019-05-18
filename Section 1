@@ -1,0 +1,55 @@
+译文: 
+第一章 学生,老师和计算机
+      我们在年轻的时候学习计算机,起初我们只是加和减数字,1+1=2,5-3=2.
+	当我们长大一点之后,我们学多了一点关于数字的操作.像取幂和正弦函数,但是我也学如何描述计算的规则.
+	  例如:给定圆的半径r,他的周长是r*2*pi,又例如,一个最低工资(当时规定5.35美金)的劳工工作了n个小时,那他获得的工资为5.35*n 美金
+    学这些,的真相是,我们的老师正在把我们变成”计算器”,让我们去执行,计算一些简单的”计算机程序”
+    所以,答案很明显,计算机程序是一个计算非常快的”学生”,他们可能执行成千上百万的加法运算当我可能还苦苦地计算第一个运算.然而计算机可以做的比仅仅
+    计算数字更多,他们可以用来指导飞机,他们可以用来打游戏,他们可以用查找一个人手机号码,他们可以用来在短时间去打印出巨大企业的工资单作为检查用.计
+    算机可以加工,处理各种各样的信息与数据. 例如人们描述的信息,以及用英语编写的指令.
+		  例子:35度摄氏度转换成华氏温度,一辆车花了35秒从0加速到100公里每小时,从而判断这个车子在20秒走了多远.
+		   计算机,然而,只能非常基础的英语和绝对不能明白复杂的,使用英语的指令.所以我们要学会使用机器的语言以便我们(人跟机器)可以交流,那些信息以及指令.
+		表达指令以及数据信息的计算机语言就是我们说的编程语言.用编程语言去表达信息,我们称作数据(DATA).在这里面,数据有很多种样式以及种类,数字(Numbers)
+    是其中一种数据.数列(Number series)是属于一种复合数据类型.因为每个系列的数据都是由其他小块的数据组成,换句话说,是一组数字组成的.为了比较这两种
+    类型的的数据,我也把数字称作为原子数据类型,字母也是一种原子数据类型的例子(原子不可再分).相对而言族谱就是符合数据类型.
+		    数据代表信息,但是具体的含义,具体解释是由我们决定,举个例子,一个数字37.51,可能是代表温度,时间,或者是距离.字母A可能表示学校的登记,一个鸡蛋的质量,
+    或者地址的一部分信息.
+		    像数据,指令,也叫操作,伴随若干种类,每一类的数据都伴随一个系列的基本操作.像数字(numbers),我们会本能用+,-,*等等操作方法..程序员会用这些基本操作创
+    作出程序.因此,我们可以把这些基本操作理解成一门外国人的语言,编程就是用这个外国语言组成的一些句子.
+		    有些程序像散文一样短,有其他一些则想百科全书一样长.写一个好的散文或者书要求仔细周全的计划,写程序也如此.不管小程序还是大程序.这必须要周祥的设计,每
+    个程序的小块都需要很多的注意力,创作大的程序单元,必须要跟随些计划好的策略,设计程序必须要想我们第一天
+		    在这本书,我们会学设计程序,我们也会学习他们如何运作.成为程序员是有趣的,但是一定不容易.最美妙的部分就是看自己的程序,自己产品在”成长”和变得越来越成
+    功.观察到了自己的程序可以玩游戏,这是很开心的,见证程序能够帮助到某人的话也是让人很兴奋的.为了达到以上的境界,我们需要不断练习.随着我们的慢慢深入,
+    编程语言是原始的,很特别的是,他们的语法是非常严格的,但是电脑是相当的笨的,一个很小的语法错误也会造成一个致命的障碍.更糟糕的情况是,我们的程序语法可
+    能正确,但是计算出来的结果不如我们的预想的.
+        编程要求耐性和集中精神,只有每分每秒地集中注意力才有可能避免的令人沮丧语法错误.只有严格的遵循和坚守计划才会阻止严重的逻辑错误在我们的设计里面.一旦我
+们的精通的设计程序,我们将要学到的技能是非常有用,不止在编程这个领域当中.
+
+让我们开始吧
+		
+原文:
+We learn to compute at a young age. At first we just add and subtract numbers.
+
+One plus one equals two. Five minus two is three.
+As we grow older we learn about additional mathematical operations, like exponentiation and sine, but we also learn to describe rules of computation.
+Given a circle of radius r, its circumference is r times two times pi. A minimum-wage laborer who works for N hours earns N times 5.35 dollars.
+The truth is, our teachers turn us into computers and program us to execute simple computer programs.
+So, the secret is out. Computer programs are just very fast students. They can perform millions of additions while we might still be struggling with the first one. But computer programs can do more than just manipulate numbers. They can guide an airplane. They can play games. They can look up a person's phone number. They can print the payroll checks for huge corporations. In short, computers process all kinds of information.
+
+People state information and instructions in English.
+
+The temperature is 35o C; convert this temperature into Fahrenheit. It takes this car 35 seconds to accelerate from zero to 100 miles per hour; determine how far the car gets in 20 seconds.
+Computers, however, barely understand basic English and certainly can't understand complex instructions expressed in English. Instead we must learn to speak a computer language so that we can communicate information and instructions.
+A computer's language of instruction and information is a PROGRAMMING LANGUAGE. Information expressed in a programming language is called DATA. There are many flavors of data. Numbers are one class of data. Number series belong to the class of COMPOUND DATA, because each series is made up of other pieces of smaller pieces of data, namely, numbers. To contrast the two kinds of data, we also call numbers ATOMIC DATA. Letters are other examples of atomic data; family trees are compound data.
+
+Data represents information, but the concrete interpretation is up to us. For example, a number like 37.51 may represent a temperature, a time, or a distance. A letter like ``A'' may denote a school grade, a quality symbol for eggs, or a part of an address.
+
+Like data, instructions, also called OPERATIONS, come in several flavors. Each class of data comes with a set of PRIMITIVE OPERATIONS. For numbers, we naturally get +, -, *, and so on. Programmers compose primitive operations into PROGRAMS. Thus, we may think of primitive operations as the words of a foreign language and of programming as forming sentences in this language.
+
+Some programs are as small as essays. Others are like sets of encyclopedias. Writing good essays and books requires careful planning, and writing good programs does, too. Small or large, a good program cannot be created by tinkering around. It must be carefully designed. Each piece needs a lot of attention; composing programs into larger units must follow a well-planned strategy. Designing programs properly must be practiced from our very first day of programming.
+
+In this book, we will learn to design computer programs, and we will learn to understand how they function. Becoming and being a programmer is fun, but it is not easy. The best part of being a programmer is watching our ``products'' grow and become successful. It is fun to observe a computer program play a game. It is exciting to see a computer program help someone. To get to this point, however, we must practice many skills. As we will find out, programming languages are primitive; especially, their grammar is restrictive. And unfortunately, computers are stupid. The smallest grammatical mistake in a program is a fatal stumbling block for a computer. Worse, once our program is in proper grammatical shape, it might not perform the computations as intended.
+
+Programming a computer requires patience and concentration. Only attention to minute details will avoid frustrating grammatical mistakes. Only rigorous planning and adherence to the plan will prevent serious logical mistakes in our designs. But when we finally master the design of programs, we will have learned skills that are useful far beyond the realm of programming.
+
+Let's get started!
